@@ -1,1 +1,8 @@
-# linkedin-scraping
+# Python Web-scraping with Selenium vs BeautifulSoup 
+
+# Tutorial:
+1. https://www.youtube.com/watch?v=hfnBswCe4QE
+2. https://www.youtube.com/watch?v=RuNolAh_4bU&t=412s
+   
+# Approach to the problem:
+Use available python libraries (selenium and BeautifulSoup) to easily extract data from linkedin then save to file as csv file
